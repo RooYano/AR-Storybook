@@ -5,14 +5,16 @@ Through our innovative app, users can embark on immersive journeys into the worl
 where physical books come alive with captivating augmented reality (AR) popups.​
 
 
+
 To install and set-up the AR Storybook Companion App on an Android Device:
 
   System Requirements:
 
-  Version: 8.1 (API 27)+
-  CPU: ARMv7 with Neon Support (32-bit and 64-bit) or ARM64
-  Graphics API: OpenGL ES 3.0+
-  Memory: 1GB + RAM
+  - Version: 8.1 (API 27)+
+  - CPU: ARMv7 with Neon Support (32-bit and 64-bit) or ARM64
+  - Graphics API: OpenGL ES 3.0+
+  - Memory: 1GB + RAM
+
 
   Prerequisites:
 
